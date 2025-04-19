@@ -90,9 +90,6 @@ add_action('wp_enqueue_scripts', 'add_custom_assets');
 📚 Ressources utiles
 
 * 🔗 [Documentation officielle plugins WordPress](https://developer.wordpress.org/plugins/intro/)
-* 🔗 [CWP enqueue scripts/styles](WP enqueue scripts/styles)
-* 🔗 [Comment ajouter du JavaScript personnalisé dans WordPress](Comment ajouter du JavaScript personnalisé dans WordPress)
-
 
 ---
 
