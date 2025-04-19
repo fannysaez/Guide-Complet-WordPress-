@@ -8,7 +8,25 @@
 4. [Jour 4 – Custom Post Types + ACF](#jour-4--custom-post-types--acf)
 5. [Jour 5 – Front-end, CPT, WooCommerce, SEO & Éco-conception](#jour-5--front-end-cpt-woocommerce-seo--éco-conception)
 
+
 ---
+
+
+# 🗂️ Structure de projet — Formation WordPress (Jours 1 à 5)
+
+📁 projet-wordpress-formation
+│
+├── 📄 README.md                     --> Sommaire global & introduction
+│
+├── 📄 customRoles.md               --> Jour 1 – Custom Roles (plugin)
+├── 📄 customJs-et-CSS.md           --> Jour 2 – JS et CSS personnalisés
+├── 📄 localWP-dev.md               --> Jour 3 – Environnement LocalWP + rôles
+├── 📄 cpt-acf.md                   --> Jour 4 – Custom Post Types & ACF
+├── 📄 front-woocommerce-seo.md     --> Jour 5 – Front CPT, WooCommerce, SEO, Éco-conception
+
+
+---
+
 
 ## 📅 Jour 1 — Custom Roles (Plugin)
 
