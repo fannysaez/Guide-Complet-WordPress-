@@ -17,7 +17,7 @@
 ```bash
 📁 Guide Complet | Formation WordPress (1 semaine)
 │
-├── 📄 README.md                     --> Sommaire global & introduction
+├── 📄 readme.md                     --> Sommaire global & introduction
 │
 ├── 📄 customRoles.md               --> Jour 1 – Custom Roles (plugin)
 ├── 📄 customJs-et-CSS.md           --> Jour 2 – JS et CSS personnalisés
