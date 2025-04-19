@@ -76,10 +76,10 @@ add_action('init', 'add_custom_author_role');
 
 ✅ Résultat attendu
 
-    ✅ Plugin installé et activé
-    ✅ Nouveau rôle visible ou créé
-    ✅ Compréhension de la gestion des permissions
-    ✅ (Bonus) Utilisation de l’interface visuelle avec le plugin Members
+✅ Plugin installé et activé
+✅ Nouveau rôle visible ou créé
+✅ Compréhension de la gestion des permissions
+✅ (Bonus) Utilisation de l’interface visuelle avec le plugin Members
 
 📚 Ressources utiles
 
