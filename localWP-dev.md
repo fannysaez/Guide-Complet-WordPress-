@@ -127,18 +127,6 @@ add_filter('the_content', 'ajouter_note_bas_article');
 * Teste l’ajout de blocs réutilisables et la prévisualisation
 ---
 
-✅ Résultat attendu
-
-    ✅ Environnement local fonctionnel avec LocalWP
-    ✅ Blueprint créé pour usage futur
-    ✅ Plugin Members installé et testé
-    ✅ Création et gestion de rôles personnalisés
-    ✅ Hooks testés (action & filter)
-    ✅ Utilisation de Gutenberg pour créer une page structurée
-    ✅ Gestion de la bibliothèque de médias
-
----
-
 📚 Ressources utiles
 
 * 🔗 [LocalWP – Installer](https://localwp.com/help-docs/getting-started/installing-local/)
