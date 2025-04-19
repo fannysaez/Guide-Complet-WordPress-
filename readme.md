@@ -15,7 +15,7 @@
 # 🗂️ Structure de projet | Formation WordPress 
 
 ```bash
-📁 projet-wordpress-formation
+📁 Guide Complet | Formation WordPress (1 semaine)
 │
 ├── 📄 README.md                     --> Sommaire global & introduction
 │
