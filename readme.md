@@ -14,6 +14,7 @@
 
 # 🗂️ Structure de projet — Formation WordPress (Jours 1 à 5)
 
+```bash
 📁 projet-wordpress-formation
 │
 ├── 📄 README.md                     --> Sommaire global & introduction
@@ -23,7 +24,7 @@
 ├── 📄 localWP-dev.md               --> Jour 3 – Environnement LocalWP + rôles
 ├── 📄 cpt-acf.md                   --> Jour 4 – Custom Post Types & ACF
 ├── 📄 front-woocommerce-seo.md     --> Jour 5 – Front CPT, WooCommerce, SEO, Éco-conception
-
+```
 
 ---
 
