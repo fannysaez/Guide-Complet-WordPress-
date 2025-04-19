@@ -98,5 +98,5 @@ add_action('wp_enqueue_scripts', 'add_custom_assets');
 ---
 
 <p align="center">
-  <a href="...">Suivant</a>
+  <a href="localWP-dev.md">Suivant</a>
 </p>
