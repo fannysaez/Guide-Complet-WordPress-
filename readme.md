@@ -1,4 +1,4 @@
-# 🧩 Formation WordPress — Guide Complet Étape par Étape
+# 🧩 Guide Étape par Étape | WordPress
 
 ## 📚 Sommaire
 
