@@ -83,11 +83,15 @@ add_action('wp_enqueue_scripts', 'add_custom_assets');
 
 ✅ Résultat attendu
 
-    ✅ Plugin installé et activé
-    ✅ Code CSS et JS personnalisé visible sur le site
-    ✅ Compréhension du fonctionnement de l’injection dans WordPress
+* ✅ Plugin installé et activé
+* ✅ Code CSS et JS personnalisé visible sur le site
+* ✅ Compréhension du fonctionnement de l’injection dans WordPress
 
 📚 Ressources utiles
+
+* 🔗 [Documentation officielle plugins WordPress](https://developer.wordpress.org/plugins/intro/)
+* 🔗 [CWP enqueue scripts/styles](#WP enqueue scripts/styles)
+* 🔗 [ Comment ajouter du JavaScript personnalisé dans WordPress](#Comment ajouter du JavaScript personnalisé dans WordPress)
 
 
 ---
