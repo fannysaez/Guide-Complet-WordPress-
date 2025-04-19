@@ -4,9 +4,9 @@
 
 1. [Jour 1 – Custom Roles (Plugin)](customRoles.md)
 2. [Jour 2 – Custom JS + CSS](customJs-et-CSS.md)
-3. [Jour 3 – Environnement Dev avec LocalWP](#jour-3--environnement-dev-avec-localwp)
-4. [Jour 4 – Custom Post Types + ACF](#jour-4--custom-post-types--acf)
-5. [Jour 5 – Front-end, CPT, WooCommerce, SEO & Éco-conception](#jour-5--front-end-cpt-woocommerce-seo--éco-conception)
+3. [Jour 3 – Environnement Dev avec LocalWP](localWP-dev.md)
+4. [Jour 4 – Custom Post Types + ACF](cpt-acf.md)
+5. [Jour 5 – Front-end, CPT, WooCommerce, SEO & Éco-conception](front-woocommerce-seo.md)
 
 
 ---
