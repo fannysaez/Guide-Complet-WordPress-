@@ -83,9 +83,9 @@ add_action('init', 'add_custom_author_role');
 
 📚 Ressources utiles
 
-🔗 [Documentation officielle WordPress](https://wordpress.org/documentation/)
-🔗 [Créer un rôle personnalisé – nettsmed.no](https://nettsmed.no/creating-custom-user-role-inwordpress/#example-1-adding-a-author-pro-custom-user-role-in-word-press)
-🔗 [Plugin Members – WordPress.org](https://wordpress.org/plugins/members/)
+* 🔗 [Documentation officielle WordPress](https://wordpress.org/documentation/)
+* 🔗 [Créer un rôle personnalisé – nettsmed.no](https://nettsmed.no/creating-custom-user-role-inwordpress/#example-1-adding-a-author-pro-custom-user-role-in-word-press)
+* 🔗 [Plugin Members – WordPress.org](https://wordpress.org/plugins/members/)
 
 ---
 
