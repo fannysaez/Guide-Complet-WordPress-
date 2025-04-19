@@ -83,10 +83,29 @@ add_shortcode('annee', 'afficher_annee');
 3. Dans single-recette.php, ajoute :
 
 ```php
-
-
-
+Temps de cuisson : the_field('temps_de_cuisson'); minutes
 ```
+
+---
+
+
+🛍️ Étape 5 – Installer et découvrir WooCommerce
+
+👉 Documentation :
+
+* [WooCommerce Setup Wizard](https://woocommerce.com/document/woocommerce-setup-wizard/)
+
+* [WooCommerce Getting Started](https://woocommerce.com/documentation/woocommerce/getting-started/)
+
+1. Va dans Extensions > Ajouter
+
+2. Rechercher WooCommerce
+
+3. Installer & activer
+
+4. Suis l’assistant de configuration : devise, paiement, transport…
+
+`Page de configuration WooCommerce, vue boutique.`
 
 ---
 
