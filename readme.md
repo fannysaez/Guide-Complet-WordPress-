@@ -90,3 +90,10 @@ function add_custom_author_role() {
     ]);
 }
 add_action('init', 'add_custom_author_role');
+```
+
+---
+
+<p align="center">
+  <a href="customRoles.md">Suivant</a>
+</p>
