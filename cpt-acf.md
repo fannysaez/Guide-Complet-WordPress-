@@ -109,6 +109,27 @@ Temps de cuisson : the_field('temps_de_cuisson'); minutes
 
 ---
 
+✅ Résultat attendu
+
+    ✅ Custom Post Type “Recette” fonctionnel
+    ✅ Template personnalisé single-recette.php opérationnel
+    ✅ Champs ACF visibles et récupérés
+    ✅ Shortcode fonctionnel
+    ✅ WooCommerce installé et testé
+    ✅ Audit écologique effectué via Ecoindex ou Lighthouse
+
+---
+
+📚 Ressources utiles
+
+* 🔗 [ Créer un thème enfant WordPress](https://developer.wordpress.org/themes/advanced-topics/child-themes/)
+* 🔗 [Documentation Custom Post Types](https://learn.wordpress.org/lesson/custom-post-types/)
+* 🔗 [Shortcodes – WordPress](https://developer.wordpress.org/reference/functions/add_shortcode/)
+* 🔗 [ACF – Récupérer les données](https://www.advancedcustomfields.com/resources/get_field/)
+* 🔗 [WooCommerce Setup Wizarde](https://woocommerce.com/document/woocommerce-setup-wizard/)
+
+---
+
 <p align="center">
   <a href="front-woocommerce-seo.md">Suivant</a>
 </p>
