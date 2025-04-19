@@ -75,11 +75,15 @@ function add_custom_assets() {
 add_action('wp_enqueue_scripts', 'add_custom_assets');
 ```
 
+---
+
 🔐 Sécurité : bonnes pratiques
 
 * Toujours filtrer/sanitiser le contenu dynamique en JS
 * Ne pas inclure de bibliothèques JS/CDN externes sans vérification
 * Tester ton code dans un environnement local avant de le pousser en production
+
+---
 
 ✅ Résultat attendu
 
