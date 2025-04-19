@@ -12,7 +12,7 @@
 ---
 
 
-# 🗂️ Structure de projet — Formation WordPress (Jours 1 à 5)
+# 🗂️ Structure de projet | Formation WordPress 
 
 ```bash
 📁 projet-wordpress-formation
