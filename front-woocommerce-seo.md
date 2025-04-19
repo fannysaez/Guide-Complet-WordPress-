@@ -108,6 +108,40 @@ add_shortcode('recettes_recent', 'shortcode_liste_recettes');
 
 ---
 
+🛡️ Étape 6 – Ajouter un CAPTCHA à ton formulaire
+
+🟢 Option 1 : Cloudflare Turnstile
+
+👉 [Plugin officiel Turnstile](https://wordpress.org/plugins/simple-cloudflare-turnstile/)
+
+1. Installe et active l’extension
+
+2. Crée une clé sur `dash.cloudflare.com`
+
+3. Intègre Turnstile dans :
+
+    - Formulaire d’inscription
+
+    - Formulaire Contact Form 7
+
+📸 Capture suggérée : Formulaire avec Turnstile actif.
+
+---
+
+🔴 Option 2 : Google Recaptcha
+
+👉 [Plugin officiel Recaptcha](https://fr.wordpress.org/plugins/advanced-google-recaptcha/)
+
+  1. Installe l’extension
+
+  2. Crée des clés Google Recaptcha v2 ou v3 : `https://www.google.com/recaptcha/admin`
+
+  3. Configure dans les réglages du plugin
+
+📸 Capture suggérée : Case “Je ne suis pas un robot” visible sur ton formulaire.
+
+---
+
 <p align="center">
   <a href="readme.md">Suivant</a>
 </p>
