@@ -122,7 +122,7 @@ Temps de cuisson : the_field('temps_de_cuisson'); minutes
 
 📚 Ressources utiles
 
-* 🔗 [ Créer un thème enfant WordPress](https://developer.wordpress.org/themes/advanced-topics/child-themes/)
+* 🔗 [Créer un thème enfant WordPress](https://developer.wordpress.org/themes/advanced-topics/child-themes/)
 * 🔗 [Documentation Custom Post Types](https://learn.wordpress.org/lesson/custom-post-types/)
 * 🔗 [Shortcodes – WordPress](https://developer.wordpress.org/reference/functions/add_shortcode/)
 * 🔗 [ACF – Récupérer les données](https://www.advancedcustomfields.com/resources/get_field/)
